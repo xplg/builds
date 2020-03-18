@@ -1,3 +1,0 @@
-version = 7
-build = 7349
-description = XpoLog Center 7 Patch - March 2020
